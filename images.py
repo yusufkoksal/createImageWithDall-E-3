@@ -32,7 +32,7 @@ no_phone_number_prompt = (
     "I want to create a valid profile picture for a dating app. It must be realistic. The photo must contain one person."
 )
 
-for i in range(900,1000):
+for i in range(100,1000):
     image_url = create_image_with_prompt(no_phone_number_prompt)
     filename = os.path.join(output_dir, f"{i + 1}_false.jpg")
     download_image(image_url, filename)

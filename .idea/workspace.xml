@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dafe40c-d9d9-4268-9b78-425951a4ef2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/createPhotoWithDall-E-3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.py" afterDir="false" />
+    <list default="true" id="5dafe40c-d9d9-4268-9b78-425951a4ef2b" name="Changes" comment="Dall e 3 apisi oluşturuldu">
+      <change afterPath="$PROJECT_DIR$/upscale.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +37,7 @@
     &quot;Python.images.executor&quot;: &quot;Run&quot;,
     &quot;Python.rename.executor&quot;: &quot;Run&quot;,
     &quot;Python.rename_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.upscale.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -70,12 +66,26 @@
       <updated>1721126296586</updated>
       <workItem from="1721126298943" duration="1496000" />
       <workItem from="1721140701643" duration="20219000" />
-      <workItem from="1721728518916" duration="1912000" />
+      <workItem from="1721728518916" duration="3966000" />
+      <workItem from="1722263438526" duration="880000" />
     </task>
+    <task id="LOCAL-00001" summary="Dall e 3 apisi oluşturuldu">
+      <option name="closed" value="true" />
+      <created>1721736861040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721736861040</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dall e 3 apisi oluşturuldu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dall e 3 apisi oluşturuldu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -90,6 +100,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/createPhotoWithDall_E_3$rename_2.coverage" NAME="rename_2 Coverage Results" MODIFIED="1721729027637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/createPhotoWithDall_E_3$upscale.coverage" NAME="upscale Coverage Results" MODIFIED="1722263658318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/createPhotoWithDall_E_3$rename.coverage" NAME="rename Coverage Results" MODIFIED="1721214604675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/createPhotoWithDall_E_3$images.coverage" NAME="images Coverage Results" MODIFIED="1721288339431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
