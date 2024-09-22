@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dafe40c-d9d9-4268-9b78-425951a4ef2b" name="Changes" comment="Dall e 3 apisi oluşturuldu">
-      <change afterPath="$PROJECT_DIR$/upscale.py" afterDir="false" />
+    <list default="true" id="5dafe40c-d9d9-4268-9b78-425951a4ef2b" name="Changes" comment="dalle-3 create image">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upscaled_image.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/images.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yusufkoksal/createImageWithDall-E-3.git",
+    "accountId": "50c69998-f88c-4089-a383-e293e9e8ea56"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -68,6 +76,7 @@
       <workItem from="1721140701643" duration="20219000" />
       <workItem from="1721728518916" duration="3966000" />
       <workItem from="1722263438526" duration="880000" />
+      <workItem from="1727002383780" duration="816000" />
     </task>
     <task id="LOCAL-00001" summary="Dall e 3 apisi oluşturuldu">
       <option name="closed" value="true" />
@@ -77,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721736861040</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dalle-3 create image">
+      <option name="closed" value="true" />
+      <created>1727002803860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727002803860</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,7 +102,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dall e 3 apisi oluşturuldu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dall e 3 apisi oluşturuldu" />
+    <MESSAGE value="dalle-3 create image" />
+    <option name="LAST_COMMIT_MESSAGE" value="dalle-3 create image" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

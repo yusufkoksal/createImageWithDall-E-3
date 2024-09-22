@@ -2,7 +2,7 @@ import requests
 import os
 import openai
 # OpenAI API key
-openai.api_key = 'sk-proj-Konk3sqN9vRnQxXw9iTpT3BlbkFJDd1qfZGXfXiRnrbVdraG' #yusufkoksal ın openAI apisi kendi api keyinizi openAI üzerinden oluşturarak bu kodu kullanabilirsiniz
+openai.api_key = 'create your own api key on OpenAI website'
 
 def create_image_with_prompt(prompt):
     response = openai.Image.create(
