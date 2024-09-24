@@ -3,7 +3,7 @@ import requests
 import os
 
 # OpenAI API key
-openai.api_key = 'sk-proj-Konk3sqN9vRnQxXw9iTpT3BlbkFJDd1qfZGXfXiRnrbVdraG'
+openai.api_key = 'apikey'
 
 def create_image_with_prompt(prompt):
     response = openai.Image.create(
